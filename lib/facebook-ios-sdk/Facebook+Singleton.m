@@ -50,7 +50,7 @@
 
 - (id)init {
     if ((self = [super init])) {
-        [self initWithAppId:@"YOUR_APP_ID"];
+        [self initWithAppId:@"357087874306060"];
         [self authorize];
     }
     return self;
